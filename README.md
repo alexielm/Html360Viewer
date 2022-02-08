@@ -1,4 +1,4 @@
-Html360Viewer is an HTML based 360 photo viewer.
+Html360Viewer is an HTML based 360 photo viewer buit using just vanella Javascript.
 
 See it running at: [http://www.nexus-solutions.org/Html360Viewer/Pano.html?http://www.nexus-solutions.org/Html360Viewer/VR/Photo360.JPG]
 
